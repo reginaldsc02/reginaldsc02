@@ -1,8 +1,8 @@
-<h1 align="left"><Hello World/></h1>
+<h1 align="left">&lt; Hello World /&gt;</h1>
 
 ###
 
-<h2 align="left">WELCOME | MY BEAUTIFUL FRIENDS ON THE INTERNET 😁🥰</h2>
+<h2 align="left">WELCOME MY BEAUTIFUL FRIENDS ON THE INTERNET 😁🥰</h2>
 
 ###
 
